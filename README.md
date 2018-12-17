@@ -3,6 +3,13 @@
 ### Project Goal
 Quick insight into Madrid metro stations and their distribution, using Voronoi tesselation and public data from Madrid council. Jupyter Notebooks and Python code will be uploaded to this repository.
 
+	- Work out Voronoi areas.
+
+	- Analyze traffic data.
+
+	- Add Cercanías and Metro Ligero.
+
+
 ### Source
 Data repository provided by Madrid city council, containing name, line and geocordinates for each metro station as of September 2018
 

@@ -133,3 +133,13 @@ text_for_test/
 
 # VS-CODE
 .vscode/
+
+# EXCEL
+.xlsx
+
+# PDF
+.pdf
+
+.rdf
+
+.kml

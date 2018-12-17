@@ -1,0 +1,309 @@
+;;
+;;
+;;
+Orden 2017;Estacion;Entradas
+;;2017
+;;
+1;Sol;21936772
+2;Moncloa;19344895
+3;Principe Pio;15727577
+4;Nuevos Ministerios;15656389
+5;Avenida de America;12665592
+6;Plaza de Castilla;12570086
+7;Atocha-Renfe;8498093
+8;Arguelles;8315587
+9;Plaza de Espana;8124672
+10;Mendez Alvaro;7708764
+11;Callao;6977585
+12;Cuatro Caminos;6921895
+13;Legazpi;6685418
+14;Gran Via;6473920
+15;Goya;6401035
+16;Chamartin;6241627
+17;Plaza Eliptica;6120400
+18;Oporto;6095001
+19;Embajadores;5976373
+20;Diego de Leon;5755484
+21;Opera;5609714
+22;Alonso Martinez;5292049
+23;Conde de Casal;5135429
+24;Colonia Jardin;5031032
+25;Tribunal;4983671
+26;Ciudad Universitaria;4969832
+27;Manuel Becerra;4643188
+28;Bilbao;4642715
+29;Pacifico;4604390
+30;Estrecho;4579135
+31;Santiago Bernabeu;4349908
+32;Gregorio Maranon;4345104
+33;Usera;4266895
+34;Aluche;4198230
+35;Pinar de Chamartin;3889259
+36;Colombia;3873001
+37;Islas Filipinas;3734632
+38;Pueblo Nuevo;3642348
+39;Lavapies;3606384
+40;Delicias;3598042
+41;Puente de Vallecas;3589767
+42;Nueva Numancia;3554875
+43;Tirso de Molina;3538744
+44;Cuzco;3512152
+45;O'Donnell;3425156
+46;Banco de Espana;3377198
+47;Tetuan;3360898
+48;Villaverde Bajo-Cruce;3304034
+49;Nunez de Balboa;3267706
+50;Begona;3243665
+51;Iglesia;3220678
+52;Mar de Cristal;3194688
+53;Guzman el Bueno;3193439
+54;Ventas;3170241
+55;Barrio del Pilar;3149346
+56;Carpetana;3101181
+57;Puerta del Angel;3031921
+58;Sainz de Baranda;3005540
+59;Lucero;2992195
+60;Marques de Vadillo;2989589
+61;Canal;2960961
+62;Getafe Central;2950834
+63;La Latina;2821562
+64;Alfonso XIII;2763445
+65;Ciudad Lineal;2748674
+66;El Carmen;2743508
+67;La Elipa;2738808
+68;Quevedo;2735664
+69;San Bernardo;2712488
+70;Anton Martin;2684716
+71;Puerta de Arganda;2645287
+72;Valdeacederas;2634001
+73;Atocha;2601095
+74;Ciudad de los Angeles;2590389
+75;Retiro;2578418
+76;Puerta del Sur;2509810
+77;Palos de la Frontera;2497566
+78;Villaverde Alto;2484515
+79;Francos Rodriguez;2460837
+80;Serrano;2437536
+81;Canillas;2415423
+82;Sierra de Guadalupe;2318433
+83;Artilleros;2305703
+84;Barrio de la Concepcion;2278175
+85;Garcia Noblejas;2244588
+86;Urgel;2230742
+87;Fuenlabrada Central;2228945
+88;Aeropuerto T1-T2-T3;2137531
+89;San Fermin-Orcasur;2118507
+90;Almendrales;2096286
+91;Quintana;2087208
+92;Principe de Vergara;2085535
+93;Portazgo;2067194
+94;Miguel Hernandez;2052390
+95;Menendez Pelayo;2051286
+96;Penagrande;2050650
+97;Opanel;2048341
+98;Rios Rosas;2047711
+99;Mostoles Central;2029994
+100;Alto de Extremadura;2025403
+101;Pavones;2021225
+102;Arturo Soria;1995636
+103;Valdebernardo;1993218
+104;Ascao;1981926
+105;Laguna;1979698
+106;Prosperidad;1971575
+107;Coslada Central;1953550
+108;Ruben Dario;1952788
+109;Velazquez;1920677
+110;Estrella;1918043
+111;Cuatro Vientos;1897370
+112;Canillejas;1891387
+113;Alonso Cano;1888406
+114;Batan;1881464
+115;Vinateros;1879873
+116;Alvarado;1879750
+117;Noviciado;1863229
+118;Alto del Arenal;1856459
+119;Vista Alegre;1855906
+120;Suanzes;1829907
+121;Leganes Central;1804366
+122;Metropolitano;1796332
+123;Juan de la Cierva;1796274
+124;Hospital 12 de Octubre;1775237
+125;Las Suertes;1771868
+126;Las Tablas;1771553
+127;Simancas;1753392
+128;Carabanchel;1743130
+129;Alcorcon Central;1728076
+130;Vicalvaro;1706677
+131;El Carrascal;1676649
+132;Alsacia;1666063
+133;Ibiza;1654009
+134;Puerta de Toledo;1627542
+135;Chueca;1600567
+136;Herrera Oria;1599991
+137;Casa de Campo;1576524
+138;Campamento;1565672
+139;San Lorenzo;1561935
+140;Piramides;1550485
+141;Feria de Madrid;1548603
+142;Ventura Rodriguez;1542521
+143;Sevilla;1527586
+144;Villa de Vallecas;1521120
+145;Santo Domingo;1507517
+146;Pradillo;1488128
+147;Lista;1483207
+148;Buenos Aires;1474256
+149;Colon;1455765
+150;Barajas;1434205
+151;El Casar;1432924
+152;Pio XII;1429955
+153;Aviacion Espanola;1424159
+154;Esperanza;1417666
+155;Cartagena;1393962
+156;Joaquin Vilumbrales;1376711
+157;San Cristobal;1347542
+158;Hospital de Mostoles;1341593
+159;Loranca;1331953
+160;Parque de las Avenidas;1329418
+161;Antonio Machado;1325103
+162;Republica Argentina;1323741
+163;Avenida de la Ilustracion;1318945
+164;Aeropuerto T-4;1318380
+165;Fuencarral;1316778
+166;Cruz del Rayo;1310997
+167;Congosto;1310531
+168;Concha Espina;1308694
+169;Hospital de Fuenlabrada;1286478
+170;Torre Arias;1281069
+171;La Moraleja;1273688
+172;Arganzuela-Planetario;1246598
+173;Marques de la Valdavia;1231328
+174;Julian Besteiro;1226621
+175;Acacias;1220270
+176;Universidad Rey Juan Carlos;1211217
+177;Valdezarza;1197184
+178;Las Musas;1197175
+179;Parque de los Estados;1174419
+180;Alameda de Osuna;1167080
+181;Rivas Urbanizaciones;1166025
+182;Pinar del Rey;1161156
+183;Las Rosas;1152855
+184;San Blas;1152801
+185;Casa del Reloj;1151829
+186;Ventilla;1140122
+187;Avenida de Guadalajara;1134751
+188;Eugenia de Montijo;1132108
+189;San Nicasio;1120834
+190;Hortaleza;1117035
+191;Parque de Santa Maria;1113897
+192;Avenida de La Paz;1101500
+193;Lacoma;1097502
+194;Rivas Futura;1089730
+195;La Rambla;1077340
+196;Bambu;1077317
+197;La Almudena;1045189
+198;Empalme;1042777
+199;Lago;1029770
+200;Hospital Infanta Sofia;1021803
+201;Parque Europa;1007859
+202;La Gavia;977943
+203;Montecarmelo;965086
+204;Parque de Lisboa;955287
+205;Arganda del Rey;952699
+206;San Francisco;949186
+207;Alonso de Mendoza;945136
+208;Mirasierra;925587
+209;Parque Oeste;922295
+210;Tres Olivos;912366
+211;La Peseta;864991
+212;Carabanchel Alto;862140
+213;Manoteras;853503
+214;Manuela Malasana;823627
+215;Hospital Severo Ochoa;774110
+216;Abrantes;770473
+217;Paco de Lucia;755301
+218;San Cipriano;725223
+219;Manuel de Falla;720032
+220;Ronda de la Comunicacion;713090
+221;Conservatorio;707614
+222;Reyes Catolicos;698591
+223;San Fernando;688531
+224;Baunatal;685532
+225;Los Espartales;674789
+226;Valdecarros;651156
+227;Barrio del Puerto;645926
+228;La Granja;642044
+229;El Bercial;616683
+230;El Capricho;590423
+231;La Fortuna;581851
+232;Duque de Pastrana;564886
+233;Pitis;542912
+234;Pan Bendito;534749
+235;Estadio Metropolitano;479394
+236;Jarama;406921
+237;Henares;354878
+238;Arroyo Culebro;349856
+239;Rivas Vaciamadrid;345207
+240;La Poveda;315134
+241;Hospital del Henares;186747
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
